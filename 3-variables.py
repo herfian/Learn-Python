@@ -1,6 +1,6 @@
 #Basic Variables
-name = 'mark'
-age = 17
+name = 'mark' #This is Statements
+age = 17 # = This is Expressions
 weight = 70
 height = 175
 ideal = height - 110
